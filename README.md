@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KonekoAtk
+- 👋 Hi, I’m Tanush Krashak
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning unreal engine blueprints
+- 🌱 Currently in 3rd Year of Computer Science BTech  
 - 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me discord - Koneko!#7596
 
